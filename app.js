@@ -2793,7 +2793,9 @@ const seedListings = [
     "address": "",
     "overnight_stays": true,
     "id": 4,
-    "name": "New Camaldoli Hermitage"
+    "name": "New Camaldoli Hermitage",
+    "photo_permission_status": "approved",
+    "photo_permission_note": "Photo permission granted by New Camaldoli Guest Ministry on 2026-05-13 after checking with guestmaster: any 3 official website photos allowed for AbbeyNB listing. Listing summary and preview link sent on 2026-05-15."
   },
   {
     "type": "monastery",
