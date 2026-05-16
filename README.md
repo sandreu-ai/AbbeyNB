@@ -5,7 +5,7 @@ Static public launch build for AbbeyNB, a curated Catholic retreat and sacred-st
 ## Current launch safety notes
 - Christ in the Desert Monastery is intentionally excluded after declining inclusion and photo use.
 - Franciscan Renewal Center is held out of public launch until listing/photo permission is clarified.
-- Christian Renewal Center and Abbey of Gethsemani have approved website-photo use for AbbeyNB.
+- Christian Renewal Center, Abbey of Gethsemani, and New Camaldoli Hermitage have approved website-photo use for AbbeyNB; approved photos are stored locally under `assets/listings/`.
 
 ## Files
 - `index.html` — static HTML shell
