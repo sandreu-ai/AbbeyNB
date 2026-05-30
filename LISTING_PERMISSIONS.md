@@ -1,6 +1,6 @@
 # AbbeyNB listing and photo permission status
 
-Updated 2026-05-15 from inbox replies and approved website-photo extraction.
+Updated 2026-05-29 from repo audit; no new external permissions were verified during this audit.
 
 ## Remove / do not publish
 - Christ in the Desert Monastery — explicitly declined inclusion and photo use. Removed from public site data and seed CSV.
@@ -16,3 +16,7 @@ Updated 2026-05-15 from inbox replies and approved website-photo extraction.
 ## Pending / routed
 - Saint Anselm Abbey Retreat House — request was routed to communications; keep official-photo use pending until communications grants permission.
 - Mepkin Abbey — request was forwarded to the abbot; keep official-photo use pending until approval is received.
+
+## Audit note — 2026-05-29
+- Local static/data checks passed, but this file remains the source of truth for publishable official imagery.
+- Remaining access gates: inbox/owner permission responses for Saint Anselm and Mepkin; clarification from Franciscan Renewal Center; registrar/DNS access for `abbeynb.com` cutover.
